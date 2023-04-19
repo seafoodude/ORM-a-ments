@@ -46,7 +46,7 @@ Product.init(
       type: DataTypes.INTEGER
     },
     is_paperback: {
-      type: Datatypes.BOOLEAN,
+      type: DataTypes.BOOLEAN,
     }
   },
   {
