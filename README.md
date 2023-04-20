@@ -37,7 +37,7 @@
 
   [screencastify](https://drive.google.com/file/d/1n6rtyIxn7xxfOwga70NyGUjE8i1dXTan/view)
 
-  ![Screenshot of README](./Assets/logogenerator.PNG)
+  ![Screenshot of Insomnia](./assets/insomnia.PNG)
 
   ## Tests
 
